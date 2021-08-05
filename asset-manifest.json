@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-jsx-interpolation/static/js/main.06ba1ebf.chunk.js",
+    "main.js.map": "/react-jsx-interpolation/static/js/main.06ba1ebf.chunk.js.map",
+    "runtime-main.js": "/react-jsx-interpolation/static/js/runtime-main.38337ad3.js",
+    "runtime-main.js.map": "/react-jsx-interpolation/static/js/runtime-main.38337ad3.js.map",
+    "static/js/2.74113c41.chunk.js": "/react-jsx-interpolation/static/js/2.74113c41.chunk.js",
+    "static/js/2.74113c41.chunk.js.map": "/react-jsx-interpolation/static/js/2.74113c41.chunk.js.map",
+    "index.html": "/react-jsx-interpolation/index.html",
+    "static/js/2.74113c41.chunk.js.LICENSE.txt": "/react-jsx-interpolation/static/js/2.74113c41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38337ad3.js",
+    "static/js/2.74113c41.chunk.js",
+    "static/js/main.06ba1ebf.chunk.js"
+  ]
+}
